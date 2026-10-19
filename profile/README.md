@@ -36,12 +36,12 @@ The Jobicy API provides structured access to remote job listings for application
 Example:
 
 ```bash
-curl "https://jobicy.com/api/v2/remote-jobs?count=100"
+curl "https://jobicy.com/api/jobs?count=100"
 ```
 
 Typical data includes job titles, companies, locations, industries, employment types, publication dates, descriptions, and application URLs.
 
-→ [Open the Remote Jobs API](https://jobicy.com/api/v2/remote-jobs)
+→ [Open the Remote Jobs API](https://jobicy.com/api/jobs)
 
 ### Open datasets
 
@@ -109,7 +109,7 @@ Jobicy focuses on:
 |---|---|
 | [Jobicy](https://jobicy.com) | Career intelligence and remote work platform |
 | [Remote Jobs](https://jobicy.com/jobs) | Search current remote opportunities |
-| [Remote Jobs API](https://jobicy.com/api/v2/remote-jobs) | Structured job data |
+| [Remote Jobs API](https://jobicy.com/api/jobs) | Structured job data |
 | [Hugging Face](https://huggingface.co/jobicy) | Public datasets and ML resources |
 | [API Examples](https://github.com/Jobicy/jobicy-api-examples) | Developer integration examples |
 | [Career Paths](https://jobicy.com/career-paths) | Career and occupation intelligence |
